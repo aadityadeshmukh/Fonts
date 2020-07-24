@@ -5,6 +5,18 @@ h2{
   /* font-style:italics;
   font-weight:bold;
   font-variant: small-caps; */
-  font-size: 10vw;
+  font-size:1em;
   font-family: "Sofia";
 }
+a{
+  color:hotpink;
+}
+a:link{
+  color:blue;
+}
+a:visited{
+  color:grey;
+}
+a:hover{color:yellow;
+}
+a:active{color:hotpink;}
