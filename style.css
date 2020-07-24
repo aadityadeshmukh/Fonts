@@ -9,14 +9,12 @@ h2{
   font-family: "Sofia";
 }
 a{
-  color:hotpink;
+  display:inline-block;
+  background-color: #f44336;
+  padding:14px 25px;
+  color:white;
+  text-decoration: none;
 }
-a:link{
-  color:blue;
+a:hover, a:active{
+  background-color:blueviolet;
 }
-a:visited{
-  color:grey;
-}
-a:hover{color:yellow;
-}
-a:active{color:hotpink;}
