@@ -18,3 +18,16 @@ a{
 a:hover, a:active{
   background-color:blueviolet;
 }
+ul{
+  list-style-type:square;
+  border:2px solid blue;
+  list-style-position:outside;
+}
+li{
+  border:2px solid blue;
+  padding:2px;
+}
+ol{
+   border:2px solid blue;
+   list-style-type:lower-roman;
+}
