@@ -31,5 +31,5 @@ li{
 }
 ol{
    border:2px solid blue;
-   list-style-type:lower-roman;
+   list-style: lower-greek inside;
 }
