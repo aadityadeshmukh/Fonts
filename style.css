@@ -19,7 +19,7 @@ a:hover, a:active{
   background-color:blueviolet;
 }
 ul{
-  list-style-type:square;
+  list-style-image:url("C:\Users\Admin\AppData\Roaming\Iconset\Iconset Library\sets\QI1xh_3Z12S2\arrow-right.svg");
   border:2px solid blue;
   list-style-position:outside;
 }
